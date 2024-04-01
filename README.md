@@ -1,2 +1,2 @@
-# Python
-Make awesome Project with Python.
+# VScode
+Contains all My VScode codes pushed data.
