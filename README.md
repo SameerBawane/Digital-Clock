@@ -1,2 +1,3 @@
 # VScode
-Contains all My VScode pushes reagading some cool and easy projects that I made.
+Contains all My VScode projects that I made.
+To access these open the required folder and u get the code.
