@@ -51,9 +51,9 @@ def run_alexa():
     elif 'time' in command:
         time=datetime.datetime.now().strftime('%I:%M %p')
         # time=datetime.datetime.now().strftime('%H:%M %p')
-        print('--> Current time is' + time)
-        talk('Current time is' + time)
-    elif 'wiki' in command:
+        print('--> Current time is :' + time)
+        talk('Current time is ' + time) 
+    elif 'wikipedia' in command:
         result=command.replace('wiki','')
         info=wikipedia.summary(result,2)#2 lines
         print(info)
