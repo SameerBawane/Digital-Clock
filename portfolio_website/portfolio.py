@@ -23,9 +23,9 @@ local_css("portfolio_website/style/style.css")
 
 # load assets
 lottie_coding=load_lottieurl("https://lottie.host/24ba237b-4a7c-4a40-aaeb-b76b87bfd501/i5BPd2e3Ki.json")
-image_amiraa=Image.open("portfolio_website/images\img1.png")
-image_browsy_net=Image.open("portfolio_website/images\img2.png")
-image_digital_clock=Image.open("portfolio_website/images\img3.png")
+image_amiraa=Image.open("portfolio_website/images/img1.png")
+image_browsy_net=Image.open("portfolio_website/images/img2.png")
+image_digital_clock=Image.open("portfolio_website/images/img3.png")
 
 
 # header
