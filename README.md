@@ -1,3 +1,3 @@
-# VScode
-Contains all My VScode projects that I made.
-To access these open the required folder and u get the code.
+# Python Projects
+Contains all My VScode projects that I made in Python.
+To access these open the required folder and get the code.
