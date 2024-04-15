@@ -1,1 +1,1 @@
-Code for encrypting and decrypting pdf files using python PyPDF2 module
+Code for encryption and decryption of pdf files using python PyPDF2 module
